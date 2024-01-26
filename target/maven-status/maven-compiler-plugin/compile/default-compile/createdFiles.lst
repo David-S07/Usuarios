@@ -1,0 +1,13 @@
+br\com\usuarios\rest\exception\UsuarioCadastradoException.class
+br\com\usuarios\config\InternacionalizacaoConfig.class
+br\com\usuarios\rest\exception\ApiErrors.class
+br\com\usuarios\model\entity\Servico.class
+br\com\usuarios\model\repository\UsuarioRepository.class
+br\com\usuarios\model\entity\Usuario.class
+br\com\usuarios\rest\ApplicattionControllerAdvice.class
+br\com\usuarios\rest\UsuarioController.class
+br\com\usuarios\model\entity\Servico$ServicoBuilder.class
+br\com\usuarios\model\repository\ServicoRepository.class
+br\com\usuarios\service\UsuarioService.class
+br\com\usuarios\model\entity\Usuario$UsuarioBuilder.class
+br\com\usuarios\UsuariosAplication.class

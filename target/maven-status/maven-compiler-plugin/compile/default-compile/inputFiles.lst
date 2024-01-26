@@ -1,0 +1,11 @@
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\service\UsuarioService.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\model\entity\Servico.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\model\repository\UsuarioRepository.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\rest\exception\ApiErrors.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\model\entity\Usuario.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\rest\exception\UsuarioCadastradoException.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\UsuariosAplication.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\rest\UsuarioController.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\config\InternacionalizacaoConfig.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\rest\ApplicattionControllerAdvice.java
+C:\Dev\Usuarios\usuarios-back\src\main\java\br\com\usuarios\model\repository\ServicoRepository.java
